@@ -63,6 +63,15 @@ Integration gateway that turns legacy web systems with no API into clean JSON.<b
 <sub>Cloudflare Workers · Durable Objects · KV · OpenAPI</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Arthyxs/ledgerline"><img src="https://raw.githubusercontent.com/Arthyxs/ledgerline/main/docs/screenshots/02-reconciliation.png" alt="Ledgerline"></a>
+<b><a href="https://github.com/Arthyxs/ledgerline">Ledgerline</a></b><br>
+Daily bank reconciliation: systems vs. bank statements, exclusion rules, review queue and spending dashboard.<br>
+<sub>React · TypeScript · Cloudflare Workers · D1</sub>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 <sub>All projects are portfolio showcases that run on fictional demo data. Production integrations are intentionally omitted.</sub>
